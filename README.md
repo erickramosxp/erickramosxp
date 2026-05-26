@@ -36,10 +36,10 @@ Passionate about Java, React, Docker, and open source.
 <br/>
 
 <div align="center">
-  <a href="mailto:contato@erickramosxp.dev">
+  <a href="mailto:erickramossilva@outlook.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/erickramosxp/">
+  <a href="https://www.linkedin.com/in/erickramossilva/">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
   </a>
 </div>
