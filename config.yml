@@ -1,0 +1,74 @@
+username: erickramosxp
+
+profile:
+  name: "Erick Ramos"
+  tagline: "Full Stack Dev & 42Rio Student"
+  company: "42Rio"
+  location: "Magé, RJ, BR"
+  bio: |
+    Building Videa - a social networking platform.
+    Passionate about Java, React, Docker, and open source.
+  philosophy: '"The best code is the code that empowers others."'
+
+social:
+  email: "erickramossilva@outlook.com"
+  linkedin: "erickramossilva"
+  website: "https://erickramos."
+
+
+galaxy_arms:
+  - name: "Backend"
+    color: "synapse_cyan"
+    items:
+      - "Java"
+      - "Quarkus"
+      - "PostgreSQL"
+      - "Spring Boot"
+  - name: "Frontend"
+    color: "dendrite_violet"
+    items:
+      - "React"
+      - "JavaScript"
+      - "CSS"
+      - "Tailwind"
+  - name: "DevOps"
+    color: "axon_amber"
+    items:
+      - "Docker"
+      - "Docker compose"
+      - "Nginx"
+      - "GitHub Actions"
+
+projects:
+  - repo: "erickramosxp/videa"
+    arm: 0
+    description: "Social networking platform with Java/Quarkus and React."
+  - repo: "erickramosxp/cub3d"
+    arm: 1
+    description: "A real-time raycasting engine written from scratch in C."
+
+theme:
+  void: "#080c14"              # Darkest background
+  nebula: "#0f1623"            # Card backgrounds
+  star_dust: "#1a2332"         # Borders, dividers
+  synapse_cyan: "#00d4ff"      # Primary accent (arm color 1)
+  dendrite_violet: "#a78bfa"   # Secondary accent (arm color 2)
+  axon_amber: "#ffb020"        # Tertiary accent (arm color 3)
+  text_bright: "#f1f5f9"       # Primary text
+  text_dim: "#94a3b8"          # Secondary text
+  text_faint: "#64748b"        # Muted text, labels
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
