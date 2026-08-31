@@ -64,17 +64,13 @@ Spring AI, Gemini, Ollama
 
 ## 📊 Estatísticas do GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=erickramosxp&show_icons=true&theme=dark&hide_border=true&count_private=true)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickramosxp&layout=compact&theme=dark&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com/?user=erickramosxp&theme=dark&hide_border=true)
+![GitHub Stats](https://ghstats.dev/api/card?username=erickramosxp&theme=tokyonight&layout=compact)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erickramosxp&theme=react-dark&hide_border=true)
 
-### 🏆 Troféus
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=erickramosxp&theme=darkhub&no-frame=true&row=1&column=6)
+</div>
 
 ---
 
