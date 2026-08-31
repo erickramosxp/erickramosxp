@@ -1,19 +1,19 @@
 <h1 align="center">👋 Olá, eu sou Erick Ramos</h1>
 
-<p align="center"><b>Desenvolvedor de Software | Backend • Java • Spring Boot • Docker • Integração de Sistemas</b></p>
+<p align="center"><b>Desenvolvedor de Software | Backend • Java • Spring Boot • Docker • Engenharia de Sistemas</b></p>
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-Engenheiro de Software em formação pela **42 Rio**, com experiência em desenvolvimento backend usando **Java**, **Spring Boot** e **Quarkus**. Também trabalho no frontend com **React**, construindo interfaces componentizadas e consumindo APIs REST em aplicações full-stack completas, do banco de dados à interface do usuário.
+Engenheiro de Software em formação pela **42 Rio**, com foco em desenvolvimento backend utilizando **Java**, **Spring Boot** e **Quarkus**. Também atuo no desenvolvimento full-stack com **React** e **JavaScript**, construindo aplicações completas — da modelagem do banco de dados e arquitetura da API até a interface do usuário.
 
 Tenho experiência prática com:
-- Desenvolvimento de APIs REST e sistemas distribuídos
-- Interfaces com React, hooks e gerenciamento de estado
-- Integração contínua e testes automatizados
-- Docker e conteinerização de aplicações
-- Bancos de dados relacionais (PostgreSQL, MySQL)
+- Desenvolvimento de APIs RESTful, autenticação (JWT/OAuth2) e integração de sistemas
+- Arquiteturas com IA Generativa e RAG (**Spring AI**, **PGVector**, **Redis**, **Ollama** e **Gemini**)
+- Conteinerização do zero, redes, TLS e orquestração com **Docker** e **Docker Compose**
+- Programação de sistemas em **C** e **C++** (servidores HTTP, concorrência com Threads/Mutexes e processos Unix)
+- Bancos de dados relacionais (**PostgreSQL**, **MySQL** / **MariaDB**) e migrações (**Flyway**)
 
 ---
 
@@ -22,19 +22,19 @@ Tenho experiência prática com:
 <div align="center">
 
 ### [hr-assistant](https://github.com/erickramosxp/hr-assistant)
-Assistente de RH com IA desenvolvido com **Spring Boot**, **Spring AI**, **Gemini**, **PGVector**, **Redis** e **Ollama**.
+Assistente corporativo de RH com IA e arquitetura **RAG**, desenvolvido com **Java 21**, **Spring Boot**, **Spring AI**, **Gemini**, **PGVector**, **Redis** e **Ollama**.
+
+### [ForumHub API](https://github.com/erickramosxp/ForumHub)
+API REST para gestão de fórum online desenvolvida com **Java 17**, **Spring Boot**, **MySQL**, **Migrations**, **Auth0 / BCrypt** e documentação **Swagger (OpenAPI 3.0)**.
 
 ### [Videa (Transcendence)](https://github.com/erickramosxp/Transcendence)
-Rede social com feed, mensagens em tempo real via **WebSocket** e ambiente totalmente conteinerizado com **Docker**.
+Plataforma social full-stack com chat e notificações em tempo real via **WebSockets**, proxy reverso **NGINX**, monitoramento e ambiente 100% conteinerizado com **Docker**.
 
-### [mini-social-network](https://github.com/erickramosxp/mini-social-network)
-Plataforma full-stack de compartilhamento de fotos com arquitetura backend-first usando **Java** e **Spring Boot**.
+### [Inception](https://github.com/erickramosxp/inception)
+Infraestrutura de microsserviços (**NGINX com TLS**, **WordPress + PHP-FPM** e **MariaDB**) construída 100% do zero via `Dockerfile` sobre **Debian Bullseye** e orquestrada com **Docker Compose** e **Makefile**.
 
-### [inception](https://github.com/erickramosxp/inception)
-Projeto sobre **Docker** e conteinerização de aplicações.
-
-### [CPP](https://github.com/erickramosxp/CPP)
-Exercícios de **C++** (c00 a c09) da 42 Rio.
+### [WebServer](https://github.com/erickramosxp/WebServer) & [Projetos 42 Rio](https://github.com/erickramosxp?tab=repositories)
+Servidor HTTP próprio implementado do zero em **C++98** ([WebServer](https://github.com/erickramosxp/WebServer)), shell Unix em C ([minishell](https://github.com/erickramosxp/minishell)), concorrência com threads ([philo](https://github.com/erickramosxp/philo)) e módulos de POO em C++ ([CPP](https://github.com/erickramosxp/CPP)).
 
 </div>
 
@@ -43,22 +43,19 @@ Exercícios de **C++** (c00 a c09) da 42 Rio.
 ## 🛠 Tech Stack
 
 **Backend:**<br>
-Java, Spring Boot, Quarkus, Node.js
+Java, Spring Boot, Spring AI, Spring Data JPA, Quarkus, Node.js, C, C++
 
 **Frontend:**<br>
-React, JavaScript, TypeScript
+React, JavaScript, HTML5, CSS3
 
-**Banco de Dados:**<br>
-PostgreSQL, MySQL
+**Banco de Dados & Cache:**<br>
+PostgreSQL (PGVector), MySQL, MariaDB, Redis
 
-**DevOps & Cloud:**<br>
-Docker, Docker Compose, GitHub Actions
+**DevOps & Infraestrutura:**<br>
+Docker, Docker Compose, NGINX, GitHub Actions, Linux, Shell Script, Makefile
 
-**Ferramentas:**<br>
-Git, Linux, VS Code, IntelliJ
-
-**IA & ML:**<br>
-Spring AI, Gemini, Ollama
+**IA & LLMs:**<br>
+RAG Architecture, Spring AI, Google Gemini, Ollama
 
 ---
 
