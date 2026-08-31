@@ -1,45 +1,74 @@
-<div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
-</div>
+# 👋 Olá, eu sou Erick Ramos
 
-<br/>
+**Desenvolvedor de Software | Backend • Java • Spring Boot • Docker • Integração de Sistemas**
 
-<div align="center">
-  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
-</div>
+---
 
-<br/>
+## 🧑‍💻 Sobre mim
 
-<div align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
-</div>
+Engenheiro de Software em formação pela **42 Rio**, com experiência em desenvolvimento backend usando **Java**, **Spring Boot** e **Quarkus**. Também trabalho no frontend com **React**, construindo interfaces componentizadas e consumindo APIs REST em projetos como clones de plataformas de streaming e aplicações full-stack.
 
-<br/>
+Tenho experiência prática com:
+- Desenvolvimento de APIs REST e sistemas distribuídos
+- Interfaces com React, hooks e gerenciamento de estado
+- Integração contínua e testes automatizados
+- Docker e conteinerização de aplicações
+- Bancos de dados relacionais (PostgreSQL, MySQL)
 
-<div align="center">
-  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
-</div>
+---
 
-<br/>
+## 🚀 Projetos em Destaque
 
-<details>
-<summary><strong>More about me</strong></summary>
+### [hr-assistant](https://github.com/erickramosxp/hr-assistant)
+Assistente de RH com IA desenvolvido com **Spring Boot**, **Spring AI**, **Gemini**, **PGVector**, **Redis** e **Ollama**.
 
-<br/>
+### [mini-social-network](https://github.com/erickramosxp/mini-social-network)
+Plataforma full-stack de compartilhamento de fotos com arquitetura backend-first usando **Java** e **Spring Boot**.
 
-Building Videa - a social networking platform.
-Passionate about Java, React, Docker, and open source.
+### [inception](https://github.com/erickramosxp/inception)
+Projeto sobre **Docker** e conteinerização de aplicações.
 
-**Currently at** 42Rio — Magé, RJ, BR
-</details>
+### [CPP](https://github.com/erickramosxp/CPP)
+Exercícios de **C++** (c00 a c09) da 42 Rio.
 
-<br/>
+### [Transcendence](https://github.com/erickramosxp/Transcendence)
+Projeto final da 42 Rio: uma plataforma web completa com jogo multiplayer em tempo real.
 
-<div align="center">
-  <a href="mailto:erickramossilva@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/erickramossilva/">
-    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
-  </a>
-</div>
+---
+
+## 🛠 Tech Stack
+
+**Backend:** Java, Spring Boot, Quarkus, Node.js
+**Frontend:** React, JavaScript, TypeScript
+**Banco de Dados:** PostgreSQL, MySQL
+**DevOps & Cloud:** Docker, Docker Compose, GitHub Actions
+**Ferramentas:** Git, Linux, VS Code, IntelliJ
+**IA & ML:** Spring AI, Gemini, Ollama
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=erickramosxp&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickramosxp&layout=compact&theme=dark&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=erickramosxp&theme=dark&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erickramosxp&theme=react-dark&hide_border=true)
+
+### 🏆 Troféus
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=erickramosxp&theme=darkhub&no-frame=true&row=1&column=6)
+
+---
+
+## 📬 Contato
+
+- **LinkedIn:** [linkedin.com/in/erickramossilva](https://www.linkedin.com/in/erickramossilva/)
+- **GitHub:** [github.com/erickramosxp](https://github.com/erickramosxp)
+- **E-mail:** erickramosxp@gmail.com
+
+---
+
+*Obrigado por visitar meu perfil! 🚀*
