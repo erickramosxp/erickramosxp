@@ -68,6 +68,8 @@ Spring AI, Gemini, Ollama
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=erickramosxp&theme=tokyonight&layout=compact)
 
+![Streak](https://streak-stats.demolab.com/?user=erickramosxp&theme=dark&hide_border=true)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erickramosxp&theme=react-dark&hide_border=true)
 
 </div>
